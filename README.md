@@ -11,9 +11,9 @@ To answer these questions, I scraped and analyzed data from [this](https://en.wi
 Step 1: I imported the modules and libraries I would need.
 Step 2: I loaded the data into the notebook using Pandas. 
 Step 3: I explored the dataset. The data contained six fields:
-- The date of the attempted prison break
-- The name of the prison
-- The country where it happened
-- Whether the attempt was successful or not
-- The names of the escapees
-- More details
+1. The date of the attempted prison break
+2. The name of the prison
+3. The country where it happened
+4. Whether the attempt was successful or not
+5. The names of the escapees
+6. More details about the case
